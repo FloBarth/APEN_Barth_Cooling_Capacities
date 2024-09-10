@@ -1,0 +1,26 @@
+<annotation>
+	<folder>positives</folder>
+	<filename>CT43 (5).jpg</filename>
+	<path>F:\UNI_MASTER\MASTERARBEIT\Bilder\Google_Earth_Exported\Training_Images\Cooling Towers\positives\CT43 (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>198</ymin>
+			<xmax>46</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>
