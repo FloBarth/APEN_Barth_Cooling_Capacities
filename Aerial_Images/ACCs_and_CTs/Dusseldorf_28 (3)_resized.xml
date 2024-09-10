@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Relabel_Boxes_and_Coolingtowers</folder>
+	<filename>Dusseldorf_28 (3)_resized.jpg</filename>
+	<path>F:\UNI_MASTER\MASTERARBEIT\Bilder\Google_Earth_Exported\Training_Images\Chillers\1_One_Class\To_Roboflow_Checked_Version_2\Relabel_Boxes_and_Coolingtowers\Dusseldorf_28 (3)_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>418</ymin>
+			<xmax>161</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>420</ymin>
+			<xmax>224</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>420</ymin>
+			<xmax>187</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

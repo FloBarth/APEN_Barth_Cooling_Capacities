@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6</folder>
+	<filename>Dusseldorf_20 (17)_resized.jpg</filename>
+	<path>F:\UNI_MASTER\MASTERARBEIT\Bilder\Google_Earth_Exported\Training_Images\Cropped\KMs_nach_Bautyp\Resized_to_512\Native_Resolution_over_490\6\Dusseldorf_20 (17)_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>137</ymin>
+			<xmax>214</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>139</ymin>
+			<xmax>336</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

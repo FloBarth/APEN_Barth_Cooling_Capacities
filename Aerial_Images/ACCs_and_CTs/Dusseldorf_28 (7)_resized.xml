@@ -1,0 +1,50 @@
+<annotation>
+	<folder>2</folder>
+	<filename>Dusseldorf_28 (7)_resized.jpg</filename>
+	<path>F:\UNI_MASTER\MASTERARBEIT\Bilder\Google_Earth_Exported\Training_Images\Cropped\KMs_nach_Bautyp\Resized_to_512\Native_Resolution_over_490\2\Dusseldorf_28 (7)_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>115</ymin>
+			<xmax>207</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>126</ymin>
+			<xmax>225</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>139</ymin>
+			<xmax>242</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>
