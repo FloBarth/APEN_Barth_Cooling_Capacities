@@ -1,0 +1,50 @@
+<annotation>
+	<folder>positives</folder>
+	<filename>CT68 (2).jpg</filename>
+	<path>F:\UNI_MASTER\MASTERARBEIT\Bilder\TRAINING_IMAGES\Training_Images\Cooling Towers\positives\CT68 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>489</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>27</ymin>
+			<xmax>173</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>52</ymin>
+			<xmax>164</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>284</ymin>
+			<xmax>134</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>
