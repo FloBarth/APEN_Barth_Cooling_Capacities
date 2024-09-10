@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mixed</folder>
+	<filename>Berlin_15 (4)_resized.jpg</filename>
+	<path>F:\UNI_MASTER\MASTERARBEIT\Bilder\Google_Earth_Exported\Training_Images\Cropped\KMs_nach_Bautyp\Resized_to_512\Native_Resolution_over_490\Mixed\Berlin_15 (4)_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>185</ymin>
+			<xmax>200</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chiller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>411</ymin>
+			<xmax>383</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>
